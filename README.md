@@ -47,7 +47,6 @@
 ---
 
 ## ⚡ Fun & Personal Facts
-- I am **single** — and proud to call it a fun fact! 😄  
 - I love **birds, tortoises, and horses** 🐦🐢🐎  
 - My favorite season is **winter** ❄️  
 - Always curious and love **learning new programming skills** 💡  
