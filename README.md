@@ -62,10 +62,15 @@
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Barrun-Kabir-Rifat&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barrun-Kabir-Rifat&layout=compact&theme=radical)
+
+<img src="https://github-readme-stats.vercel.app/api?username=Barrun-Kabir-Rifat&show_icons=true&theme=radical&rank_icon=github" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barrun-Kabir-Rifat&layout=compact&theme=radical" />
+
 
 ---
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Barrun-Kabir-Rifat&theme=onedark&row=1)
+
+<img src="https://github-profile-trophy.vercel.app/?username=Barrun-Kabir-Rifat&theme=onedark&row=1&margin-w=10" />
+
