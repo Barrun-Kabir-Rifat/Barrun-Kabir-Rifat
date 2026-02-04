@@ -9,7 +9,7 @@
 - 🌱 I’m currently exploring the vast world of **programming** and web development.  
 - 💞️ I’m looking to collaborate with **genius minds** in the field of computer science.  
 - 📫 You can reach me at: **[rkrifat048@gmail.com](mailto:rkrifat048@gmail.com)**  
-- 🌐 Check out my portfolio: [https://portfolio-rifat048.vercel.app/](https://barrun-kabir-rifat.github.io/](https://portfolio-rifat048.vercel.app/)
+- 🌐 Check out my portfolio: [https://portfolio-rifat048.vercel.app/](https://portfolio-rifat048.vercel.app/)
 
 ---
 
