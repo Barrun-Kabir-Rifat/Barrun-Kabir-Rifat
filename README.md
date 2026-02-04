@@ -5,51 +5,65 @@
 ---
 
 ## 🌱 About Me
-- 👀 I’m passionate about **Competitive Programming** and solving algorithmic challenges.  
-- 🌱 I’m currently exploring the vast world of **programming** and web development.  
-- 💞️ I’m looking to collaborate with **genius minds** in the field of computer science.  
-- 📫 You can reach me at: **[rkrifat048@gmail.com](mailto:rkrifat048@gmail.com)**  
-- 🌐 Check out my portfolio: [https://portfolio-rifat048.vercel.app/](https://portfolio-rifat048.vercel.app/)
+- 👀 Passionate about **Competitive Programming** and solving algorithmic challenges  
+- 🌱 Exploring **programming, web development**, and modern backend technologies  
+- 💞️ Looking to collaborate with **driven and curious minds** in Computer Science  
+- 📫 Reach me at: **[rkrifat048@gmail.com](mailto:rkrifat048@gmail.com)**  
+- 🌐 Portfolio:  
+  <a href="https://portfolio-rifat048.vercel.app/" target="_blank" rel="noopener noreferrer">
+    https://portfolio-rifat048.vercel.app/
+  </a>
 
 ---
 
-## 🏆 My Competitive Programming Profile
-- **Codeforces:** [RIFAT048](https://codeforces.com/profile/RIFAT048)  
-- Always striving to improve my **rating and ranking**.
+## 🏆 Competitive Programming
+- **Codeforces:**  
+  <a href="https://codeforces.com/profile/RIFAT048" target="_blank" rel="noopener noreferrer">
+    RIFAT048
+  </a>  
+- Actively improving **problem-solving skills, rating, and consistency**
 
 ---
 
 ## 💻 Skills & Technologies
-- **Languages:** C++, Python, HTML, CSS  
+- **Languages:** C++, Python, C#, HTML, CSS  
 - **Frameworks:** Django  
 - **Databases:** MySQL  
-- **Topics:** Data Structures, Algorithms, Problem Solving  
-- **Tools & Platforms:** Git, GitHub, VS Code, Linux  
+- **Core CS:** Data Structures, Algorithms, Problem Solving  
+- **Tools:** Git, GitHub, VS Code, Linux  
 
 ---
 
 ## 🛠️ Tech Stack
-<img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Django" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-<img align="left" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<br />
+<p align="left">
+  <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img alt="Django" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  <img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+</p>
 
 ---
 
 ## 🔗 Connect With Me
-- **LinkedIn:** [Barrun Kabir Rifat](https://www.linkedin.com/in/barrun-kabir-rifat-674543261/)  
+- **LinkedIn:**  
+  <a href="https://www.linkedin.com/in/barrun-kabir-rifat-674543261/" target="_blank" rel="noopener noreferrer">
+    Barrun Kabir Rifat
+  </a>  
 - **Email:** [rkrifat048@gmail.com](mailto:rkrifat048@gmail.com)  
-- **Portfolio:** [barrun-kabir-rifat.github.io](https://barrun-kabir-rifat.github.io/)
+- **Portfolio:**  
+  <a href="https://portfolio-rifat048.vercel.app/" target="_blank" rel="noopener noreferrer">
+    portfolio-rifat048.vercel.app
+  </a>
 
 ---
 
-## ⚡ Fun & Personal Facts
-- I love **birds, tortoises, and horses** 🐦🐢🐎  
-- My favorite season is **winter** ❄️  
-- Always curious and love **learning new programming skills** 💡  
+## ⚡ Fun Facts
+- Love **birds, tortoises, and horses** 🐦🐢🐎  
+- Favorite season: **Winter** ❄️  
+- Curious by nature, always learning something new 💡  
 
 ---
 
