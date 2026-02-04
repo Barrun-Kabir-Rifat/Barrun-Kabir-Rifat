@@ -61,16 +61,13 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Overview
 
-<img src="https://github-readme-stats.vercel.app/api?username=Barrun-Kabir-Rifat&show_icons=true&theme=radical&rank_icon=github" />
+![Profile Views](https://komarev.com/ghpvc/?username=Barrun-Kabir-Rifat&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Barrun-Kabir-Rifat?label=Followers&style=flat-square)
+![Stars](https://img.shields.io/github/stars/Barrun-Kabir-Rifat?label=Total%20Stars&style=flat-square)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barrun-Kabir-Rifat&layout=compact&theme=radical" />
-
-
----
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Barrun-Kabir-Rifat&theme=onedark&row=1&margin-w=10" />
+![C++](https://img.shields.io/badge/C++-Competitive-blue)
+![Python](https://img.shields.io/badge/Python-Backend-yellow)
+![C%23-.NET-purple)
 
