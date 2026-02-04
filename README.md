@@ -48,15 +48,9 @@
 ---
 
 ## 🔗 Connect With Me
-- **LinkedIn:**  
-  <a href="https://www.linkedin.com/in/barrun-kabir-rifat-674543261/" target="_blank" rel="noopener noreferrer">
-    Barrun Kabir Rifat
-  </a>  
+- **LinkedIn:**   <a href="https://www.linkedin.com/in/barrun-kabir-rifat-674543261/" target="_blank" rel="noopener noreferrer"> Barrun Kabir Rifat </a>  
 - **Email:** [rkrifat048@gmail.com](mailto:rkrifat048@gmail.com)  
-- **Portfolio:**  
-  <a href="https://portfolio-rifat048.vercel.app/" target="_blank" rel="noopener noreferrer">
-    portfolio-rifat048.vercel.app
-  </a>
+- **Portfolio:**  <a href="https://portfolio-rifat048.vercel.app/" target="_blank" rel="noopener noreferrer"> portfolio-rifat048.vercel.app </a>
 
 ---
 
@@ -68,4 +62,10 @@
 ---
 
 ## 📈 GitHub Stats
-![Rifat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barrun-Kabir-Rifat&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Barrun-Kabir-Rifat&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barrun-Kabir-Rifat&layout=compact&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Barrun-Kabir-Rifat&theme=onedark&row=1)
