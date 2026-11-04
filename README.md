@@ -126,6 +126,10 @@
 ![Stars](https://img.shields.io/github/stars/Barrun-Kabir-Rifat?label=Total%20Stars&style=flat-square)
 
 ![Streak](https://streak-stats.demolab.com/?user=Barrun-Kabir-Rifat&theme=tokyonight)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Barrun-Kabir-Rifat&theme=tokyo-night)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Barrun-Kabir-Rifat/Barrun-Kabir-Rifat/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Barrun-Kabir-Rifat/Barrun-Kabir-Rifat/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Barrun-Kabir-Rifat/Barrun-Kabir-Rifat/output/github-snake.svg" />
+</picture>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00ADD8,100:203a43&height=140&section=footer&text=Thanks%20For%20Visiting&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=70)
