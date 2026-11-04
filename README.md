@@ -1,9 +1,9 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Barrun%20Kabir%20Rifat&fontSize=40)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Thanks%20For%20Visiting&fontSize=40)
 # 👋 Hi, I’m Barrun Kabir Rifat
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Barrun-Kabir-Rifat)
 
-**Software Engineering Intern @ Pathao · Backend Developer (Go) · Competitive Programmer**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00ADD8&center=true&vCenter=true&width=900&lines=Software+Engineering+Intern+%40+Pathao+%7C+Backend+Developer+%28Go-Echo%29+%7C+Competitive+Programmer)](https://github.com/Barrun-Kabir-Rifat)
 
 ---
 
