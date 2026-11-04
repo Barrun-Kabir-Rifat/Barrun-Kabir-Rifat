@@ -1,3 +1,4 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Barrun%20Kabir%20Rifat&fontSize=40)
 # 👋 Hi, I’m Barrun Kabir Rifat
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Barrun-Kabir-Rifat)
