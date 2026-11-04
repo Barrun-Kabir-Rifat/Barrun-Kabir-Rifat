@@ -46,21 +46,56 @@
 ---
 
 ## 🔭 Currently Working With
-- **Go** with the **Echo** web framework for building REST APIs
-- **PostgreSQL** for relational data modeling and queries
-- **Docker** for containerizing and running services
-- Learning production backend practices through my internship at **Pathao**
+
+```go
+package main
+
+import "fmt"
+
+type Currently struct {
+	Language string
+	Framework string
+	Database string
+	DevOps   string
+	Learning string
+}
+
+func main() {
+	now := Currently{
+		Language:  "Go",
+		Framework: "Echo (REST APIs)",
+		Database:  "PostgreSQL",
+		DevOps:    "Docker",
+		Learning:  "Production backend practices @ Pathao",
+	}
+
+	fmt.Printf("%+v\n", now)
+}
+```
 
 ---
 
 ## 🏆 Competitive Programming
-- **Codeforces:** [RIFAT048](https://codeforces.com/profile/RIFAT048)
-- Solutions and practice repos:
-  - [CSES-Problem-Set](https://github.com/Barrun-Kabir-Rifat/CSES-Problem-Set)
-  - [Data-Structure-and-Algorithmic-Problem](https://github.com/Barrun-Kabir-Rifat/Data-Structure-and-Algorithmic-Problem)
-  - [Binary-Search](https://github.com/Barrun-Kabir-Rifat/Binary-Search)
-  - [Codeforces_Submission_by_rifat048](https://github.com/Barrun-Kabir-Rifat/Codeforces_Submission_by_rifat048)
-- Actively improving **problem-solving skills, rating, and consistency**
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-RIFAT048-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/RIFAT048)
+[![CodeChef](https://img.shields.io/badge/CodeChef-rifat048-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/rifat048)
+[![VJudge](https://img.shields.io/badge/VJudge-rifat048-F5A623?style=for-the-badge&logo=v&logoColor=white)](https://vjudge.net/user/rifat048)
+
+### 🎖️ Contest Experience
+| 🏅 Contest | 📌 Participation |
+|---|---|
+| **IUPC** (Inter University Programming Contest) | Participated in **6** contests |
+| **ICPC 2025** | **Regionalist** |
+
+### 📂 Solutions & Practice
+| Repository | What's inside |
+|---|---|
+| [CSES-Problem-Set](https://github.com/Barrun-Kabir-Rifat/CSES-Problem-Set) | CSES problem set solutions |
+| [Data-Structure-and-Algorithmic-Problem](https://github.com/Barrun-Kabir-Rifat/Data-Structure-and-Algorithmic-Problem) | Data structure and algorithm problems |
+| [Binary-Search](https://github.com/Barrun-Kabir-Rifat/Binary-Search) | Binary search practice |
+| [Codeforces_Submission_by_rifat048](https://github.com/Barrun-Kabir-Rifat/Codeforces_Submission_by_rifat048) | Codeforces submissions |
+
+> 🎯 Actively improving **problem-solving skills, rating, and consistency**
 
 ---
 
@@ -131,5 +166,28 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Barrun-Kabir-Rifat/Barrun-Kabir-Rifat/output/github-snake.svg" />
   <img alt="snake animation" src="https://raw.githubusercontent.com/Barrun-Kabir-Rifat/Barrun-Kabir-Rifat/output/github-snake.svg" />
 </picture>
+
+## 👨‍💻 { "dev": "Rifat" }
+
+```go
+package main
+
+type Developer struct {
+    Name     string
+    Role     string
+    Stack    []string
+    Passion  []string
+}
+
+func main() {
+    rifat := Developer{
+        Name:    "Barrun Kabir Rifat",
+        Role:    "Software Engineering Intern @ Pathao",
+        Stack:   []string{"Go", "Echo", "PostgreSQL", "Docker"},
+        Passion: []string{"Backend Systems", "Algorithms", "Competitive Programming"},
+    }
+    _ = rifat
+}
+```
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00ADD8,100:203a43&height=140&section=footer&text=Thanks%20For%20Visiting&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=70)
