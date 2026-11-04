@@ -71,11 +71,10 @@
 ---
 
 ## 📌 Featured Projects
-- **[Car-Parking-Lot-Management-System](https://github.com/Barrun-Kabir-Rifat/Car-Parking-Lot-Management-System)** (PHP): web-based system to manage parking slots, track vehicle entry/exit, and show real-time availability
-- **[CSES-Problem-Set](https://github.com/Barrun-Kabir-Rifat/CSES-Problem-Set)** (C++): solved problems for algorithm practice
-- **[Data-Structure-and-Algorithmic-Problem](https://github.com/Barrun-Kabir-Rifat/Data-Structure-and-Algorithmic-Problem)** (C++): DSA solutions from my learning journey
-- **[Binary-Search](https://github.com/Barrun-Kabir-Rifat/Binary-Search)** (C++): binary search practice for competitive programming
-
+- **[jobnai](https://github.com/Barrun-Kabir-Rifat/jobnai)**: [add a one-line description, e.g. what it does and the tech used]
+- **[letseat](https://github.com/Barrun-Kabir-Rifat/letseat)**: [add a one-line description, e.g. what it does and the tech used]
+- **[Data-Structure-and-Algorithmic-Problem](https://github.com/Barrun-Kabir-Rifat/Data-Structure-and-Algorithmic-Problem)** (C++): data structure and algorithm problem solutions from my learning journey
+- **[Codeforces_Submission_by_rifat048](https://github.com/Barrun-Kabir-Rifat/Codeforces_Submission_by_rifat048)**: my Codeforces problem submissions
 ---
 
 ## 🔗 Connect With Me
