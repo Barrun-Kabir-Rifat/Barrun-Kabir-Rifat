@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=140&section=header&text=%24%20{HELLO+World}%20&fontSize=34&fontColor=00ADD8&fontAlign=50&fontAlignY=45&animation=blink&stroke=00ADD8&strokeWidth=1)
 # 👋 Hi, I’m Barrun Kabir Rifat
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Barrun-Kabir-Rifat)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00ADD8&center=true&vCenter=true&width=900&lines=Software+Engineering+Intern+%40+Pathao+%7C+Backend+Developer+%28Go-Echo%29+%7C+Competitive+Programmer)](https://github.com/Barrun-Kabir-Rifat)
 
