@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Thanks%20For%20Visiting&fontSize=40)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=140&section=header&text=%24%20{HELLO+World}%20&fontSize=34&fontColor=00ADD8&fontAlign=50&fontAlignY=45&animation=blink&stroke=00ADD8&strokeWidth=1)
 # 👋 Hi, I’m Barrun Kabir Rifat
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Barrun-Kabir-Rifat)
@@ -8,13 +8,40 @@
 ---
 
 ## 🌱 About Me
-- 💼 Software Engineering Intern at **Pathao**
-- 🔭 Currently building backend services with **Go, Echo, Docker, and PostgreSQL**
-- 🏆 Passionate about **Competitive Programming**, DSA, and solving algorithmic challenges
-- 🎓 Studying at **International University of Business Agriculture and Technology (IUBAT)**, Dhaka, Bangladesh
-- 💞️ Looking to collaborate with **driven and curious minds** in Computer Science
-- 📫 Reach me at: **[rkrifat048@gmail.com](mailto:rkrifat048@gmail.com)**
-- 🌐 Portfolio: [portfolio-rifat048.vercel.app](https://portfolio-rifat048.vercel.app/)
+
+> I build reliable backend systems and love solving hard algorithmic problems. Right now I'm learning how production software is built and shipped as a **Software Engineering Intern at Pathao**.
+
+<table>
+  <tr>
+    <td>💼 <b>Role</b></td>
+    <td>Software Engineering Intern @ <b>Pathao</b></td>
+  </tr>
+  <tr>
+    <td>🔭 <b>Building with</b></td>
+    <td>Go · Echo · Docker · PostgreSQL</td>
+  </tr>
+  <tr>
+    <td>🏆 <b>Obsessed with</b></td>
+    <td>Competitive Programming · Data Structures · Algorithms</td>
+  </tr>
+  <tr>
+    <td>🎓 <b>Studying at</b></td>
+    <td>International University of Business Agriculture and Technology (IUBAT)</td>
+  </tr>
+  <tr>
+    <td>📍 <b>Based in</b></td>
+    <td>Dhaka, Bangladesh</td>
+  </tr>
+  <tr>
+    <td>🤝 <b>Open to</b></td>
+    <td>Collaborating with driven, curious minds in Computer Science</td>
+  </tr>
+</table>
+
+<p>
+  <a href="mailto:rkrifat048@gmail.com"><img src="https://img.shields.io/badge/Email-rkrifat048@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://portfolio-rifat048.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00ADD8?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
 ---
 
