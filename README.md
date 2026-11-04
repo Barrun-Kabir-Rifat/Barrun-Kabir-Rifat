@@ -96,3 +96,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Barrun-Kabir-Rifat&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/Barrun-Kabir-Rifat?label=Followers&style=flat-square)
 ![Stars](https://img.shields.io/github/stars/Barrun-Kabir-Rifat?label=Total%20Stars&style=flat-square)
+
+![Streak](https://streak-stats.demolab.com/?user=Barrun-Kabir-Rifat&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Barrun-Kabir-Rifat&theme=tokyo-night)
